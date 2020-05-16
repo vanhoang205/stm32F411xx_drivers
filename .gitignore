@@ -1,0 +1,8 @@
+.settings
+Debug
+.cproject
+.project
+STM32F411VETX_FLASH.ld
+STM32F411VETX_RAM.ld
+stm32f411xx_drivers Debug.cfg
+stm32f411xx_drivers Debug.launch
